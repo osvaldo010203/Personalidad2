@@ -23,7 +23,7 @@ class Personalidad2 {
 
         //SECOND BOUND OF QUESTIONS
         questions[1] = new String[4];
-        questions[1][0] = "Take the charge";
+        questions[1][0] = "Te gusta tomar el cargo";
         questions[1][1] = "You take the riks";
         questions[1][2] = "Loyal";
         questions[1][3] = "Accurate in every step of the life ";
