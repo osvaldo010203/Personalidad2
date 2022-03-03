@@ -14,7 +14,7 @@ class Personalidad2 {
        // numberOfQuestions = 9;
         questions = new String[10][];
 
-        //FIRST BOUNCH OF QUESTIONS
+        //espero que ahora zi  se hagan los camvbios
         questions[0] = new String[4];
         questions[0][0] = "te gusta la autoridad";//el segundo array es como el id de la pregungta  que se puede sumar
         questions[0][1] = "eres entusiate";
