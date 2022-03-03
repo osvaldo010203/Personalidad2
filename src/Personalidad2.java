@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Scanner;
 
 class Personalidad2 {
-
+//estoy intentando GUIT
     private int numberOfQuestions;  //this is the fields beloow
     private String[][] questions;//esto es para el array
    // private int[][] answers;
