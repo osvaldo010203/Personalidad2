@@ -16,10 +16,10 @@ class Personalidad2 {
 
         //FIRST BOUNCH OF QUESTIONS
         questions[0] = new String[4];
-        questions[0][0] = "You like the authority";//el segundo array es como el id de la pregungta  que se puede sumar
-        questions[0][1] = "You are entusiastic";
-        questions[0][2] = "You are a sentimental person";
-        questions[0][3] = "You like the instructions";
+        questions[0][0] = "te gusta la autoridad";//el segundo array es como el id de la pregungta  que se puede sumar
+        questions[0][1] = "eres entusiate";
+        questions[0][2] = "Eres sentimental";
+        questions[0][3] = "te gusta de la instruccion";
 
         //SECOND BOUND OF QUESTIONS
         questions[1] = new String[4];
