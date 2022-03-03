@@ -11,6 +11,9 @@ class Personalidad2 {
    // private int[] scores;
 
     public Personalidad2() {
+        
+        
+        System.out.println(" prueba  para subir");
        // numberOfQuestions = 9;
         questions = new String[10][];
 
